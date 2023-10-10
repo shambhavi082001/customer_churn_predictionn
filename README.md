@@ -1,0 +1,1 @@
+Developed an interactive churn prediction web app using Python, NumPy, pandas and Streamlit, incorporating scikit-learns machine learning pipeline for data pre-processing, SMOTE handling of imbalanced data, and RandomForestClassifier training. Enabled users to input attributes, generating real-time predictions for customer churn status.
